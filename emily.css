@@ -14,8 +14,10 @@
      font-family: 'Major Mono Display';
  }
 
- h3 {
+ h2 {
      font-family: 'Major Mono Display';
+     font-size: 20px;
+     margin-top: 10px;
  }
 
  h2 {
